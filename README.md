@@ -3,8 +3,8 @@
 ### :mortar_board: B.S. Mathematical Science @ Nation Chengchi University (NCCU) :eagle:
 ## Work:
 ### Faculty Engagement Scholar @ SOS+CD Lab in Syracuse University
-    -	Image analysis & relative works.
-    -	[Graphical Integrity Detection](https://github.com/sciosci/graph_check)
+-   Image analysis & relative works.
+-   [Graphical Integrity Detection](https://github.com/sciosci/graph_check)
 ### IT Intern @ NJ Transit
 	- Time-series Modeling for prediction & visualize on SSRS.
 ### Research Assistant @ NCCU
