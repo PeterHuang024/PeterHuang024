@@ -6,6 +6,7 @@
 ### :tangerine: Faculty Engagement Scholar @ SOS+CD Lab in Syracuse University
 -   Image analysis projects & relative works.
 -   [Graphical Integrity Detection](https://github.com/sciosci/graph_check)
+-   [Computational Research Integrity Competition 2022](https://sites.google.com/g.syr.edu/cri-comp-2022)
 ### :steam_locomotive: IT Intern @ NJ Transit
 -   Time-series Modeling for prediction & visualize on SSRS.
 ### :eagle: Research Assistant @ NCCU
