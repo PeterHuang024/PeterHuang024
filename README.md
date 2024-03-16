@@ -19,7 +19,8 @@
 ## Technology & Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,sql,azure,aws,git,github,docker,mongodb" />
+    <img src="https://skillicons.dev/icons?i=py,r,azure,aws,git,github,docker,mongodb" />
+    <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sql/sql.png" />
   </a>
 </p>
 
