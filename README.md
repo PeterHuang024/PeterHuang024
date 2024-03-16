@@ -1,4 +1,4 @@
-## Hi :wave:
+## Hi :wave:, welcome to my hub!
 
 
 ## Work:
@@ -24,7 +24,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-Pyspark, HDFS
 
+[![My Skills](https://skillicons.dev/icons?i=awsazure=3)](https://skillicons.dev)
+
+## Educations:
 ### :book: M.S. Applied Data Science @ Syracuse University :tangerine:
 ### :mortar_board: B.S. Mathematical Science @ National Chengchi University (NCCU) :eagle:
