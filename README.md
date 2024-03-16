@@ -17,12 +17,9 @@
 -   [Data Analysis of the Risks of Type 2 Diabetes Mellitus Complications before Death Using a Data-Driven Modeling Approach: Methodologies and Challenges in Prolonged Diseases](https://www.mdpi.com/2078-2489/12/8/326)
 
 ## Technology & Tools:
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sql/sql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i= py,r,sql,azure,aws,git,github,docker,mongodb" />
+    <img src="https://skillicons.dev/icons?i=py,r,sql,azure,aws,git,github,docker,mongodb" />
   </a>
 </p>
 
