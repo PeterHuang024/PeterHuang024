@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i= py, r, sql, azure, aws, git, github, docker, mongodb" />
+    <img src="https://skillicons.dev/icons?i= py,r,sql,azure,aws,git,github,docker,mongodb" />
   </a>
 </p>
 
