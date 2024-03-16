@@ -2,8 +2,8 @@
 
 
 ## Work:
-### ✈️: Analyst, Revenue Engineering @ American Airlines
-### 🛒: Analytics & Insights Professional @ Amazon Ads
+### ✈️ Analyst, Revenue Engineering @ American Airlines
+### 🛒 Analytics & Insights Professional @ Amazon Ads
 -   Developed actionable insights of branding media ad products with data science methodologies to support advertisers.
 ### :tangerine: Faculty Engagement Scholar @ SOS+CD Lab in Syracuse University
 -   Image analysis projects & relative works.
